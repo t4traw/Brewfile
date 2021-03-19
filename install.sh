@@ -1,4 +1,4 @@
-DOTPATH=$HOME/ghq/github.com/t4traw/dotfiles
+DOTPATH=$HOME/dotfiles
 for f in .??*
 do
     [ "$f" = ".git" ] && continue
